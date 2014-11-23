@@ -231,6 +231,7 @@
 			<ul class="courses">
 				{{#each courses}}
 				<li>{{.}}</li>
+				<br>	
 				{{/each}}
 			</ul>
 			{{/if}}
