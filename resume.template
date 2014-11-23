@@ -103,7 +103,7 @@
 				{{/if}}
 				{{#if endDate}}
 				<span class="endDate">
-					- {{endDate}}
+					 {{endDate}}
 				</span>
 				{{else}}
 				<span class="endDate">
